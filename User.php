@@ -1,12 +1,10 @@
 <?php
 
-
-	class User {
+	class User 
+	{
 	   private $username;
 	   private $password;
 	   
-	   function User() {}  
-	   
-	
+	   function User() {} 
 	}
 ?>
