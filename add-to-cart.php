@@ -1,5 +1,5 @@
 ﻿<?php
-//nin
+
 session_start();
 
 
