@@ -1,5 +1,5 @@
 ﻿<?php
-//ninja
+//ninj
 session_start();
 
 
